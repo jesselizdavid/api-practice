@@ -1,2 +1,2 @@
 # api-practice
-Practicing Making API calls with Tania Racia's How-To
+Practicing Making API calls with Tania Racia's How-To on APIs
